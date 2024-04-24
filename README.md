@@ -7,7 +7,8 @@ Set up home lab
 
 
 ## 1. Obtain Cisco Packet Tracer
-- Visit [Cisco's official website](https://www.cisco.com/c/en/us/td/docs/net_mgmt/packet_tracer/8_0/user/guide/overview.html) to download Cisco Packet Tracer.
+- Visit [Cisco's official website](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US&utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&userlogin=0![image](https://github.com/MiguelAngelHorta/Cisco-Packet-Tracer/assets/106134627/30d5ae1d-afe0-42c5-b342-347696194753)
+) to download Cisco Packet Tracer.
 - Follow the installation instructions provided by Cisco to set up the software on your computer.
 
 ## 2. Deploy Devices
